@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">p47s212022mayj</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multi">Multiplicacion</string>
+    <string name="div">Division</string>
+    <string name="tituloresta">Operacion suma</string>
+    <string name="titulosuma">Operacion suma</string>
+    <string name="titulomulti">Operacion multiplicacion</string>
+    <string name="titulodiv">Operacion division</string>
+    <string name="calcular">Calcular</string>
+    <string name="regresa">Regresar</string>
+    <string name="operaciones">Operaciones</string>
+    <string name="num1">Numero 1</string>
+    <string name="num2">Numero 2</string>
+    <string name="result">Resultado</string>
+</resources>
